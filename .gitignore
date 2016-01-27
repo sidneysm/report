@@ -63,3 +63,12 @@ target/
 #virtualenv
 venv/
 venv/bin/
+
+
+#boilerplot
+*.eot
+*.svg
+*.ttf
+*.woff
+*.woff2
+*.map
